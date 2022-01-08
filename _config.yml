@@ -11,7 +11,7 @@ title                    : "Khashiff Here!"
 title_separator          : "-"
 name                     : &name "Khashiff Miranda"
 description              : &description "personal description"
-url                      : https://kkmiranda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kkmiranda.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -99,7 +99,7 @@ author:
   github           : 
   google_plus      :
   keybase          :
-  instagram        : "@aChildWithBeard"
+  instagram        : "aChildWithBeard"
   impactstory      : 
   lastfm           :
   linkedin         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "@khashiff"
+  twitter          : "khashiff"
   vine             :
   weibo            :
   xing             :
