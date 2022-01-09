@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Khashiff Here!"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Khashiff Miranda"
 description              : &description "personal description"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Khashiff Miranda"
   avatar           : "IMG_3896.JPG"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "🌊 PhD. student in Oceanography at Université Laval, QC | Drones, Diving, Destructive Ice | Studying food sustainability in Inuit Communities in Ungava Bay 🌊"
   location         : "Quebec City"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "khashiff.miranda.1@ulaval.ca"
   researchgate     : "https://www.researchgate.net/profile/Khashiff-Miranda"
   uri              :
