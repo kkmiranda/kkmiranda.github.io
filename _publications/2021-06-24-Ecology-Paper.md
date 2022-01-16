@@ -1,7 +1,7 @@
 ---
 title: "Differential impacts of alternate primary producers on carbon cycling"
 collection: publications
-permalink: /publication/2021-06-24-Ecology-Paper.md
+permalink: /publication/2021-06-24-Ecology-Paper
 excerpt: 'Disturbance impacts the spatial distribution of primary producers, which can have cascading effects on ecosystem function. The lower-intertidal zone on the rocky shores of the Pacific Northwest is one such place where wave energy creates a mosaic-like distribution between two assemblages: surfgrass (Phyllospadix scouleri) meadows and macroalgal forests dominated by kelp. We simulated wave disturbance by experimentally removing patches of surfgrass monocultures, resulting in a macroalgal assemblage with increased diversity, biomass, and net primary productivity in the following year. Although surfgrass had a higher C:N compared to macroalgal assemblages, macroalgal assemblages achieved a higher biomass, fixed carbon at a faster rate, and released more dissolved organic carbon (DOC) during photosynthesis. Thus, despite similar standing amounts of carbon, macroalgal assemblages have increased carbon turnover—from fixation to DOC release. Comparative photophysiology indicated that surfgrasses have a competitive advantage over other macrophytes at low light levels, allowing them to persist when disturbance is reduced. Unexpectedly, disturbance in this system increased the potential for carbon sequestration when surfgrass monocultures were replaced by diverse macroalgae.'
 date: 2021-06-24
 venue: 'Ecology'
