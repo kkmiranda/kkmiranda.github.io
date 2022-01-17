@@ -35,5 +35,10 @@ As waves rip up surfgrass meadows, creating space for opportunistic kelp, the ou
 
 [Download paper here](http://kkmiranda.github.io/files/ecy.3455.pdf)
 
+<p align="center" width="70%">
+<img src="/images/working_the_tide.JPG" width="70%">
+<figcaption align="center"><i>Bob Paine-esque intertidal science shot by the amazing Dr. Lyda Harris</i></figcaption>
+</p>
+
 Recommended citation: Miranda, K.K., Weigel, B.L., McCoy, S.J. and Pfister, C.A. (2021), Differential impacts of alternate primary producers on carbon cycling. Ecology. https://doi-org.proxy.uchicago.edu/10.1002/ecy.3455
 
