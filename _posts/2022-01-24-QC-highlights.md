@@ -16,7 +16,7 @@ tags:
 What a funny little city I’ve found myself in. A smorgasbord of villages where eating pizza with fork and knife, dragging infants across the ground on plastic trays and having a city-wide festival during the coldest days of winter just seems to happen without the flutter of an eyelid. Rules function differently here, specifically in French and not the French that you or me or the French are used to… It’s coming up to my fifth month in this intriguing city that I moved into during the pandemic, the Canadian pandemic mind you! Been some ups and downs but so far so good.
 
 <p align="center">
-<img src="/images/posts/post1/qc_hlights4.JPG" width="100%">
+<img src="/images/posts/post1/qc_hlights4.jpg" width="100%">
 <figcaption align="right"><i>My professor snapped this on my way out of Chicago. Brutally cropped Ece HA</i></figcaption>
 </p>
 
