@@ -28,15 +28,15 @@ redirect_from:
 </style>
 
 <ul>
-      <li><img class="img1" src="//picsum.photos/300/200?1" width=100%></li>
-      <li><img class="img2" src="//picsum.photos/300/200?2" width=100%></li>
-      <li><img class="img3" src="//picsum.photos/300/200?3" width=100%></li>
-      <li><img class="img4" src="//picsum.photos/300/200?4" width=100%></li>
-      <li><img class="img5" src="//picsum.photos/300/200?5" width=100%></li>
-      <li><img class="img6" src="//picsum.photos/300/200?6" width=100%></li>
-      <li><img class="img7" src="//picsum.photos/300/200?7" width=100%></li>
-      <li><img class="img8" src="//picsum.photos/300/200?8" width=100%></li>
-      <li><img class="img9" src="//picsum.photos/300/200?9" width=100%></li>
+      <li><img class="img1" src="//picsum.photos/300/200?1"></li>
+      <li><img class="img2" src="//picsum.photos/300/200?2"></li>
+      <li><img class="img3" src="//picsum.photos/300/200?3"></li>
+      <li><img class="img4" src="//picsum.photos/300/200?4"></li>
+      <li><img class="img5" src="//picsum.photos/300/200?5"></li>
+      <li><img class="img6" src="//picsum.photos/300/200?6"></li>
+      <li><img class="img7" src="//picsum.photos/300/200?7"></li>
+      <li><img class="img8" src="//picsum.photos/300/200?8"></li>
+      <li><img class="img9" src="//picsum.photos/300/200?9"></li>
 </ul>
 <button onclick="show(-1)">&lt;</button>
 <button onclick="show(+1)">&gt;</button>
