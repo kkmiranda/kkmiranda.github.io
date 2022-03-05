@@ -34,3 +34,6 @@ If you want to get into the nitty gritties of the paper, check it out [here](htt
 </p>
 
 Recommended citation: Miranda, K.K., Weigel, B.L., Fogarty, E.C., Veseli, I.A., Giblin, A.E., Eren, M.A. and Pfister, C.A. (2022), The diversity and functional capacity of microbes associated with coastal phototrophs. mSystems <i>in Review</i>.
+
+<a href="https://github.com/kkmiranda/PNWMetagenomes">GitHub Link</a>
+
