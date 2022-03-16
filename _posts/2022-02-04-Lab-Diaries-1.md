@@ -2,13 +2,12 @@
 title: 'Lab Diaries 1: Frozen Khashiff meets Frozen Ocean'
 date: 2022-02-04
 permalink: /posts/2022/02/Lab_diaries_1/
-header:
-  image: /images/posts/post2/ld1_1.jpeg
 tags:
   - Photography
   - Winter sampling
   - Ice
 ---
+<meta property="og:image" content="https://kkmiranda.github.io/images/posts/post2/ld1_1.jpeg"/>
 <p align="center" width="100%">
 <img src="/images/posts/post2/ld1_1.jpeg">
 <figcaption align="right"><i>Cantina light </i>Ascophyllum</figcaption>
