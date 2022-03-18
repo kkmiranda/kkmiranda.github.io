@@ -35,7 +35,7 @@
     </h2>
     
     {% if post.header.image %}
-      <img src="https://kkmiranda.github.io/images/{{ post.header.image }}"/>
+      <img src="https://kkmiranda.github.io/images/{{ post.header.image | remove: '<p>' }}"/>
     {% endif %}
 
     {% if post.read_time %}
