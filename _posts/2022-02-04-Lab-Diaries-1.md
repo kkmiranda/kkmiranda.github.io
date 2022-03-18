@@ -10,11 +10,6 @@ tags:
   - Ice
 ---
 
-<p align="center" width="100%">
-<img src="/images/posts/post2/ld1_1.jpeg">
-<figcaption align="right"><i>Cantina light </i>Ascophyllum</figcaption>
-</p>
-
 Man I love the winter. Just something wild-west-cowboy-jacques-cousteau-the-adeventurists about the whole professor-lets-you-know-midday-he's-heading-to-the-field-so-you-jump-in-your-windshield-wiper-less-bazou-and-drive-five-hours-to-shovel-and-snowshoe-your-way-to-your-field-site that really gets my blood pumping. My field site out in Métis-sur-mer is absolutely unreal - a lighthouse overlooking the St. Laurent, replete with an intertidal teeming with mussels and snails. Curiously enough, not much else. Terrible if you're a traveller expecting to chance upon some wonders; spectacular if you're a scientist keen on seeing how A results in B with no millions of fancinful creatures distracting you in the process (how do coral reef scientists do it...). I was particularly keen on this trip because now we're kind of approaching the dead of winter in Quebec. Coldest air temperatures usually mean a lot of ice - something that happens to be what I'm looking to study for the duration of my PhD. I was here a couple months ago around mid-December which was brilliant: the wind on the first day made standing up a workout and the cold on the second day just froze the entire intertidal. Usually we plan our trips around the spring tides where the moon, the earth and the sun are perfectly aligned to create the strongest tides in the two week cycle. This means the low tides are really really low allowing us scientists to venture out really far into where the water would otherwise be - revealing all the weird (lazy) and wonderful creatures left behind. But when it's cold (-15 C) cold, the water doesn't leave, it just freezes in place. The lazy sessile cretins living on these rocks transform into Han Solo popsicles and the very physics of the ocean morphs into that of an alien celestial body.
 
 <p align="center" width="100%">
