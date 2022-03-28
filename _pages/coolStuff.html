@@ -11,7 +11,7 @@ slideshow:
     - images/posts/post1/qc_highlights10.jpeg
 ---
 
-{% include slideShow.html images=page.slideShow %}
+{% include images=page.slideShow %}
 
 <div id=”gallery”>{% for image in include.images %}
     <img class=”mySlides” src=”{{ image }}”>{% endfor %}
