@@ -2,7 +2,39 @@
 title: "Cool Stuff"
 permalink: /coolStuff/
 author_profile: true
+slideshow:
+    - images/posts/post1/qc_highlights2.JPG
+    - images/posts/post1/qc_highlights3.JPG
+    - images/posts/post1/qc_highlights4.jpg
+    - images/posts/post1/qc_highlights7.jpeg
+    - images/posts/post1/qc_highlights9.jpeg
+    - images/posts/post1/qc_highlights10.jpeg
 ---
+
+{% include slideShow.html images=page.slideShow %}
+
+<div id=”gallery”>{% for image in include.images %}
+    <img class=”mySlides” src=”{{ image }}”>{% endfor %}
+        <button onclick="plusDivs(-1)">❮</button>
+        <button onclick="plusDivs(1)">❯</button>
+</div>
+    <script>
+        var slideIndex = 1;showDivs(slideIndex);
+        function plusDivs(n) {showDivs(slideIndex += n);}
+        function showDivs(n) {
+        
+        var i;
+        var x = document.getElementsByClassName("mySlides");
+    
+        if (n > x.length) {slideIndex = 1}
+        if (n < 1) {slideIndex = x.length}
+        for (i = 0; i < x.length; i++) {x[i].style.display = "none";}
+        x[slideIndex-1].style.display = "block";
+    }
+</script>
+
+
+
 Done some cool stuff, captured a wee bit of it. open up
 
 <h2>MBL's SES Testimonial Video</h2>
