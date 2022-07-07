@@ -3,9 +3,9 @@ title: 'Field Notes: Raw and LIVE from the Mingan Islands!'
 date: 2022-07-01
 permalink: /posts/2022/07/ManicMingan
 header: 
-  image: /posts/post5/snorkel.jpeg
+    image: /posts/post5/snorkel.jpeg
 tags:
-  - 
+  - fieldWork
 ---
 
 Found myself in a logistical inferno in one of the most beautiful places on earth: the Mingan Islands. Puffins screaming past sandstone monoliths showered by the mist of minkies and belugas. Drop your head into the water and behold the golden algal locks of mother ocean swaying in and around the confused jellyfish and ctenophore filled currents. An intense sense of calm and unspoken power about this place. John Himmelman and my professor Ladd Johnson have had teams working out here since the 1980s and jesus am I keen to keep some of that scientific tradition going. 
