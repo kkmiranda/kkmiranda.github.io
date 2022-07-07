@@ -1,7 +1,7 @@
 ---
-title: 'Raw and LIVE from the Mingan Islands!'
-date: 2022-06-01
-permalink: /posts/2022/06/ManicMingan
+title: 'Field Notes: Raw and LIVE from the Mingan Islands!'
+date: 2022-07-01
+permalink: /posts/2022/07/ManicMingan
 header: 
   image: /posts/post5/snorkel.jpeg
 tags:
