@@ -1,5 +1,5 @@
 ---
-title: 'Field Notes 1: Raw and LIVE from the Mingan Islands!'
+title: 'Lab Diaries 3: Raw and LIVE from the Mingan Islands!'
 date: 2022-07-01
 permalink: /posts/2022/07/ManicMingan/
 header: 

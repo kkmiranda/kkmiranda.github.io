@@ -1,5 +1,5 @@
 ---
-title: 'Attention: Chevreuil!'
+title: 'Lab Diaries 4: Attention: Chevreuil!'
 date: 2022-07-09
 permalink: /posts/2022/07/AttentionChevreuil
 header: 
@@ -12,7 +12,7 @@ tags:
 
 Out of one cratered beady eye drools morsels of rotted flesh. It's neck punctuated with fungal tumors with hovering mosquitoes awaiting a death long overdue. Nostrils flaring spasmically as the demons roam the halls of its skull. My jerky defence and screams of warning fall upon unattending ears. The single functional eye steely stares through my physical being. Bambi ain't an innocent baby no more. 
 
-But there are other cute Bambis around Anticosti Island! In 1895, a Belgian chocolatier by the names of Henri Menier decided that this Jamaica-sized island was going to be his personal hunting paradise. Back in the day you could buy a provincially-sized island for a quick $125,000, fill it with 220 deer, 20+ bison, a few moose and caribou and proceed to visit it a total of 6 times without the international community calling foul. Imagine the effort to bring 220 live deer onto a boat WOW. A brazen display of wealth immortalised by a landscape-altering infestation of deer. Horizons of tall grasses dotted with pairs of kangaroo like ears. No natural predators! One of those bizarre places where both deer and hunters win. 
+But there are other cute Bambis around Anticosti Island! In 1895, a Belgian chocolatier by the name of Henri Menier decided that this Jamaica-sized island was going to be his personal hunting paradise. Back in the day you could buy a provincially-sized island for a quick $125,000, fill it with 220 deer, 20+ bison, a few moose and caribou and proceed to visit it a total of 6 times without the international community calling foul. Imagine the effort to bring 220 live deer onto a boat WOW. A brazen display of wealth immortalised by a landscape-altering infestation of deer. Horizons of tall grasses dotted with pairs of kangaroo like ears. No natural predators! One of those bizarre places where both deer and hunters win. 
 
 <p align="center" width="100%">
 <img src="/images/posts/post6/deer.jpeg">
