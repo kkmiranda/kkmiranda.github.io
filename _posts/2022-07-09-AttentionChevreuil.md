@@ -36,14 +36,14 @@ Diving on the island was wicked. Just algae and lobster - don't need anything mo
 
 <p align="center" width="100%">
 <img src="/images/posts/post6/algalWeights.jpeg">
-<figcaption align="right"><i>Ladd and Christian Noisay with their catch of the Day: Juicy Sugar Kelp</i></figcaption>
+<figcaption align="right"><i>Ladd, Fanny Noisette and Christian Nozais with their catch of the Day: Juicy Sugar Kelp</i></figcaption>
 </p>
 
 The island in itself was really cool. We lived in an old lighthouse next to the wreck of the Galou, spent a good number of hours searching for fossils - this island holds some incredible evidence of the organisms that perished in the 1st mass extinction (for reference, we're causing the 6th). One day returning from the field, we came across a panicked lady with her baby in the car searching for her husband who had left on his bike and not come home. Remember, 150 people spread across the area of Jamaica. If you're lost, you're really lost. So we put together an adhoc search operation that involved me roaming through the woods on an ATV and jogging 5 km on the beach looking for bicicyle tracks. (he turned out to be fine - just smashed his bike into a tree and had to walk it back). One evening we even entertained Simon's team from the research vessel the Coriolis, all disembarking with carrots and apples for the famous deer of Anticosti. Hilarious to see them swaying on land after a week and a half on sea. Funnily enough, the only Indian on the Coriolis found the only Indian on Anticosti and we chatted a while about life. Not speaking in Hindi for this long took a toll on our communication in the beginning but 5 minutes in and we were dropping shamelessly well-intentioned gaalis to smiling Quebecois faces ;)
 
 <p align="center" width="100%">
-<img src="/images/posts/post6/auberge.jpeg">
-<figcaption align="right"><i>The falaise of Anse aux fraises - layers upon layers of fossils. Notice how small Ladd is. Also notice all the washed up kelp!</i></figcaption>
+<img src="/images/posts/post6/falaise.jpeg">
+<figcaption align="right"><i>The falaise of Anse aux fraises - layers upon layers of fossils. Notice how small Ladd is. Also check the washed up kelp!</i></figcaption>
 </p>
 
 All in all, quality trip. Achieved my objectives of testing out this drone tech and developing somewhat of an intuition of what extensive kelp flats look like. also warmed up the ecological centers of my brain for the craziness I'm about to see in Ungava Bay. Definitely an exercise to be dropped into a fresh new environment and piece together and ecological story in the matter of days. What a life.
