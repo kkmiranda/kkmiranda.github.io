@@ -267,6 +267,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-leaflet
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -280,7 +281,7 @@ map_tiles:
   url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png'
   attribution: '&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
   maxZoom: 19
-  
+
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
