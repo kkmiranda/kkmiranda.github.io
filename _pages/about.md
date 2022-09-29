@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% leaflet_map %}
-    {}
-{% endleaflet_map %}
-
 I'm Khashiff, a first year PhD. student at Université Laval studying food resources in Inuit communities. I'm a CAUSS diver, a PADI divemaster, a drone pilot and a photographer with an eye towards linking tech with communities and ecosystems to further our understanding of climatic change. Up in Nunavik, I get to do just that in our Sentinel Nord funded project: <i> Tininnimuitait</i> which researches the harvesting potential of country foods like seaweed and mussels.
 
 Born and raised in Mumbai, I only got my first real experiences out in the wild when I took a year off after school to travel around my country. I worked in government schools on the border of India, Pakistan and China with <a href="http://17000ft.org/">17000 ft Foundation</a> and worked as a PADI Divemaster for Barefoot SCUBA in the Andaman Islands. I made my way out west to study Chemistry at UChicago but my previous year of scaling peaks and uncovering marine secrets steered me far away from life behind a lab bench. I instead began work with Drs. Cathy Pfister and Tim Wootton: marine ecologists working out of Tatoosh Island, Makah Tribal Nation. 
