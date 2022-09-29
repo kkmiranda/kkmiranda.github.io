@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include jekyll_mapping.html %}
+
+{% render_map %}
 
 I'm Khashiff, a first year PhD. student at Université Laval studying food resources in Inuit communities. I'm a CAUSS diver, a PADI divemaster, a drone pilot and a photographer with an eye towards linking tech with communities and ecosystems to further our understanding of climatic change. Up in Nunavik, I get to do just that in our Sentinel Nord funded project: <i> Tininnimuitait</i> which researches the harvesting potential of country foods like seaweed, mussels and the unfortunately-named <b>ugly fish</b> sculpin. 
 

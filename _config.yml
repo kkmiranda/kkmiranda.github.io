@@ -20,6 +20,8 @@ words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
+mapping:
+  provider               : openstreetmap
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -82,7 +84,7 @@ analytics:
 author:
   name             : "Khashiff Miranda"
   avatar           : "profile.JPG"
-  bio              : "🌊 PhD. student in Oceanography at Université Laval, QC | Drones, Diving, Destructive Ice | Studying food sustainability in Inuit Communities in Ungava Bay"
+  bio              : "🌊 PhD. student in Oceanography at Université Laval, QC | Drones, Diving, Ice | Studying food sustainability in Inuit Communities in Ungava Bay"
   location         : "Quebec City"
   employer         :
   pubmed           : 
